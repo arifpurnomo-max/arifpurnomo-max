@@ -1,6 +1,8 @@
-# 💫 About Me:
+![profile](img/github-header-image.png)
+# 💫 About Me:😎😍
 Nama : Arif purnomo<br>Pekerjaan : Fullstack Developer<br>cita-cita : Ahli IT dan Ahli Qu`ran <br>Hobi : suka mendaki
 
+![hay](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpwZTJsbWYzenR4bzhqZWU3bnJibjQyeHM5OWJnNnN5M3Ztdnh2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M5rdwi1tNAXqU/giphy.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_arf_pm30) 
