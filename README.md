@@ -1,9 +1,6 @@
 ![profile](img/github-header-image%20(1).png)
 # 💫 About Me:😎😍
 Nama : Arif purnomo<br>Pekerjaan : Fullstack Developer<br>cita-cita : Ahli IT dan Ahli Qu`ran <br>Hobi : suka mendaki
-
-![hay](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpwZTJsbWYzenR4bzhqZWU3bnJibjQyeHM5OWJnNnN5M3Ztdnh2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M5rdwi1tNAXqU/giphy.gif)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_arf_pm30) 
 
@@ -20,15 +17,10 @@ Nama : Arif purnomo<br>Pekerjaan : Fullstack Developer<br>cita-cita : Ahli IT da
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-
-
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
-
 ###
