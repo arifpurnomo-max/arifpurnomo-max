@@ -1,6 +1,14 @@
-![profile](img/github-header-image%20(1).png)
-# 💫 About Me:😎😍
-Nama : Arif purnomo<br>Pekerjaan : Fullstack Developer<br>cita-cita : Ahli IT dan Ahli Qu`ran <br>Hobi : suka mendaki
+<h1 align="center">Hi 👋, I'am Arif Purnomo</h1>
+<p align="center">I am a beginner developer who is always learning new things😆</p>
+
+<p align="center">
+    <img src="https://i.imgur.com/ZaBILp8.png" alt="skin"width="10%">
+</p>
+<p align="center">
+    <img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" alt="minecraft" width="50%">
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ArselAdy283&color=orange" alt="ArselAdy283" /></p>
+<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_arf_pm30) 
 
