@@ -9,7 +9,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ArselAdy283&color=orange" alt="ArselAdy283" /></p>
 <br>
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_arf_pm30) 
 
 # 💻 Tech Stack:
